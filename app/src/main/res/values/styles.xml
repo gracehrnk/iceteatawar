@@ -13,4 +13,7 @@
         <item name="android:layout_height">match_parent</item>
     </style>
 
+    <style name="pinkText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#C44953</item>
+    </style>
 </resources>

@@ -1,11 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">1718040</string>
     <string name="text_akun">Profile Akun</string>
     <string name="text_alamat">Alamat</string>
     <string name="text_pend">Pendidikan</string>
-
-    <string-array name="language_option">
-        <item>English</item>
-        <item>Indonesia</item>
-    </string-array>
 </resources>
